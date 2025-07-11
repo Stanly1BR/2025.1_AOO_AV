@@ -154,25 +154,53 @@ Permitir avaliação mútua e estruturada dos jogadores após uma partida, garan
 Evitar interações com jogadores indesejados.
 
 **Atores:**  
-- Jogador
+- Jogador  
+- Administrador (para bloqueios/desbloqueios sistêmicos)
 
 **Requisitos Funcionais:**  
-- **RF07** – Bloquear jogador
+- **RF07** – Bloquear jogador informando motivo  
+- **RF08** – Desbloquear jogador (pelo próprio jogador ou via administração)  
 
 **Requisitos Não Funcionais:**  
-- **RNF05** – Confirmação e possibilidade de reversão do bloqueio
+- **RNF05** – Confirmação de ação (bloqueio/desbloqueio)  
+- **RNF06** – Interface para consulta de histórico de bloqueios  
 
 **Regras de Negócio:**  
-- **RN03** – Jogadores bloqueados não aparecem nas buscas
+- **RN03** – Jogadores bloqueados não aparecem em buscas, convites nem mensagens  
+- **RN07** – Só pode haver um bloqueio ativo por par de jogadores; novo bloqueio substitui motivo e data  
+- **RN08** – Administrador pode impor bloqueio sistêmico sem motivo informado pelo jogador  
 
-**Pós-condição:**  
-- Jogador bloqueado não poderá mais ser encontrado ou interagir.
+**Pré‑condição:**  
+- Jogador está logado e com perfil preenchido (incluindo disponibilidade e estilo).  
 
-**Fluxo Principal:**
-1. Jogador acessa perfil do outro jogador.
-2. Seleciona a opção "Bloquear jogador".
-3. Sistema solicita confirmação.
-4. Jogador é bloqueado e removido das buscas e contatos.
+**Pós‑condição:**  
+- Registro de um objeto `Relacionamento` do tipo “bloqueio” com atributos `motivo`, `dataInicio`, `dataFim=null`, `ativo=true`.  
+- Ou, em caso de desbloqueio, atualização de `dataFim` e `ativo=false`.  
+
+**Fluxo Principal:**  
+1. Jogador A acessa o perfil de Jogador B.  
+2. Seleciona “Bloquear jogador”.  
+3. Sistema apresenta campo obrigatório “Motivo” e botão “Confirmar”.  
+4. Jogador A preenche motivo (ex.: “abuso verbal”) e confirma.  
+5. Sistema cria ou atualiza o registro `Relacionamento{A→B, tipo=bloqueio, motivo, dataInicio}`.  
+6. Sistema remove B de buscas, convites e chat de A.  
+7. Exibe mensagem de sucesso: “Jogador bloqueado com sucesso.”
+
+**Fluxos Alternativos:**  
+- **FE01 – Cancelar bloqueio:**  
+  1. Após passo 3, Jogador A clica em “Cancelar”.  
+  2. Sistema aborta sem criar registro e retorna ao perfil.  
+- **FE02 – Erro ao registrar bloqueio:**  
+  1. Se falha de rede ou servidor no passo 5, exibe “Não foi possível bloquear. Tente novamente.” mantendo o motivo preenchido.  
+- **FE03 – Bloqueio administrativo:**  
+  1. Administrador invoca `bloquearJogadorSistema(B, motivo)`.  
+  2. Sistema cria `Relacionamento{Admin→B, tipo=bloqueio, motivo, dataInicio}`.  
+  3. Notifica B sobre bloqueio sistêmico.  
+
+**Extensões:**  
+- **CSU04.1 – Desbloquear Jogador**  
+  - Fluxo muito similar ao principal, mas atualiza `dataFim` e `ativo=false`.  
+  - Inclui confirmação “Tem certeza que deseja desbloquear?”  
 
 <br>
 
