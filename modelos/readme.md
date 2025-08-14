@@ -2,6 +2,8 @@
 
 > Visão Geral
 
+## [DIAGRAMA DE CASOS DE USO (PNG)](DiagramaCasodeUso/casosdeusobgwhite.png)
+
 ## ![DIAGRAMA DE CASOS DE USO (PNG)](DiagramaCasodeUso/casosdeusobgwhite.png)
 
 > Ferramenta: LucidChart
