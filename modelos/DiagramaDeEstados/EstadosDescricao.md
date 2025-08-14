@@ -1,7 +1,8 @@
-## 🔹 [Descrição dos Diagramas de Estados](./DiagramaDeEstados)
+## 🔹 [Descrição dos Diagramas de Estados](../DiagramaDeEstados/EstadosDescricao.md)
 
+## [DEM01 – Acesso ao Sistema](../DiagramaDeEstados/Acesso%20ao%20Sistema.png)
 
-## DEM01 – Acesso ao Sistema
+## ![DEM01 – Acesso ao Sistema](../DiagramaDeEstados/Acesso%20ao%20Sistema.png)
 
 Este diagrama modela o ciclo de vida da sessão de um usuário, desde a tentativa de acesso até o logout.
 
@@ -28,7 +29,9 @@ Descrever os estados em que um usuário pode se encontrar durante o processo de 
 
 ---
 
-## DEM02 – Buscar Jogadores
+## [DEM02 – Buscar Jogadores](../DiagramaDeEstados/Buscar%20Jogadores.png)
+
+## ![DEM02 – Buscar Jogadores](../DiagramaDeEstados/Buscar%20Jogadores.png)
 
 Este diagrama descreve os diferentes estados de um processo de busca por jogadores, desde a filtragem até o envio de convites.
 
@@ -63,7 +66,9 @@ Modelar o comportamento e os estados de uma sessão de busca de jogadores.
 
 ---
 
-## DEM03 – Visualizar Perfil
+## [DEM03 – Visualizar Perfil](../DiagramaDeEstados/Enviar%20Mensagem.png)
+
+## ![DEM03 – Visualizar Perfil](../DiagramaDeEstados/Enviar%20Mensagem.png)
 
 Este diagrama  ilustra as funcionalidades disponíveis quando um usuário está no estado de visualização de um perfil.
 
@@ -91,7 +96,9 @@ Modelar o estado de "visualização de perfil" como um estado que habilita um co
 
 ---
 
-## DEM04 – Enviar Mensagem
+## [DEM04 – Enviar Mensagem](../DiagramaDeEstados/Visualizar%20Perfil.png)
+
+## ![DEM04 – Enviar Mensagem](../DiagramaDeEstados/Visualizar%20Perfil.png)
 
 Este diagrama ilustra o ciclo de vida de um objeto de mensagem durante o processo de envio, considerando diferentes permissões.
 
