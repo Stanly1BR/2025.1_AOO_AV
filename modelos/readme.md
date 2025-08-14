@@ -35,7 +35,7 @@
 
 <br>
 
-## 🔹 [DIAGRAMA DE ATIVIDADE](./DiagramaDeAtividade)
+## 🔹 [DIAGRAMA DE ATIVIDADE](./DiagramaDeAtividade/AtividadesDescricao.md)
 
 ### Fluxo de Ações
 
