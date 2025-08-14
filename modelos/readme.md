@@ -54,9 +54,9 @@
 
 <br>
 
-## 🔹 [DIAGRAMA DE CLASSE](./DiagramaDeClasse/ClassesDescricao.md)
+## 🔹 [DIAGRAMA DE CLASSES](./DiagramaDeClasse/ClassesDescricao.md)
 
-## ![DIAGRAMA DE CLASSE](./DiagramaDeClasse/diagramadeclasses.png)
+## ![DIAGRAMA DE CLASSES](./DiagramaDeClasse/diagramadeclasses.png)
 
 ### Abstração das Entidades
 
