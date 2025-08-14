@@ -1,5 +1,7 @@
 # 📘 Detalhamento das Classes
 
+## ![DIAGRAMA DE CLASSEs](./DiagramaDeClasse/diagramadeclasses.png)
+
 ---
 
 ## 🧍‍♂️ Classe `Usuario`
