@@ -1,6 +1,7 @@
-## 🔹 [DIAGRAMA DE CASOS DE USO](./DiagramaCasodeUso/Diagrama%20Caso%20de%20Uso.png)
-
+## 🔹 [DIAGRAMA DE CASOS DE USO](../DiagramaCasodeUso/casosdeusobgwhite.png)
 > Descrição dos principais casos de uso do sistema, seus requisitos e regras de negócio.
+
+## ![DIAGRAMA DE CASOS DE USO](../DiagramaCasodeUso/casosdeusobgwhite.png)
 
 <br>
 
