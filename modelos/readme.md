@@ -85,7 +85,7 @@
 
 <br>
 
-## 🔹 [DIAGRAMA DE ESTADOS](./DiagramaDeEstados)
+## 🔹 [DIAGRAMA DE ESTADOS](./DiagramaDeEstados/EstadosDescricao.md)
 
 ### Possíveis Estados e suas Respectivas Transições
 
