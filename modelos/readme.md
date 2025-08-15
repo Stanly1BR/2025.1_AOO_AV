@@ -49,7 +49,7 @@
 | [Editar Perfil](./DiagramaDeAtividade/editarperfil.png)                      | Preferências                      |
 | [Acessar](./DiagramaDeAtividade/acesso.png)                                  | Cadastro, Login                   |
 | [Enviar Mensagem](./DiagramaDeAtividade/enviarmensagem.png)                  | Chat                              |
-| [Enviar Notificação](./DiagramaDeAtividade/enviarnotificação.png)            | Notificação                       |
+| [Enviar Notificação](./DiagramaDeAtividade/enviarnotificacao.png)            | Notificação                       |
 | [Vizualizar Perfil](./DiagramaDeAtividade/DiagramaDeATVvisualizarPerfil.png) | Vizualização, Bloqueio, Avaliação |
 
 <br>
