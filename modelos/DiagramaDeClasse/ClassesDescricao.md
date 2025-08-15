@@ -5,6 +5,7 @@
 ---
 
 ## 🧍‍♂️ Classe `Usuario`
+![usuario](../DiagramaDeClasse/usuario.png)
 
 **Atributos:**
 - `nome: String`
@@ -24,6 +25,7 @@
 ---
 
 ## 🧑‍💻 Classe `Jogador`
+![usuario](../DiagramaDeClasse/jogador.png)
 
 **Atributos:**
 - `nickname: String`
@@ -54,6 +56,7 @@
 ---
 
 ## 💬 Classe `Chat`
+![usuario](../DiagramaDeClasse/chat.png)
 
 **Atributos:**
 - `idChat: String`
@@ -72,6 +75,7 @@
 ---
 
 ## ✉️ Classe `Mensagem`
+![usuario](../DiagramaDeClasse/mensagem.png)
 
 **Atributos:**
 - `idMensagem: String`
@@ -86,6 +90,7 @@
 ---
 
 ## 🤝 Classe `Convite`
+![usuario](../DiagramaDeClasse/convite.png)
 
 **Atributos:**
 - `conteudo: String`
@@ -100,6 +105,7 @@
 ---
 
 ## 📩 Classe `Notificacao`
+![usuario](../DiagramaDeClasse/notificacao.png)
 
 **Atributos:**
 - `idNotificacao: String`
@@ -115,6 +121,7 @@
 ---
 
 ## 🌟 Classe `Sugestao`
+![usuario](../DiagramaDeClasse/sugestao.png)
 
 **Atributos:**
 - `pontuacaoCompatibilidade: Double`
@@ -127,6 +134,7 @@
 ---
 
 ## 🌟 Classe `Avaliacao`
+![usuario](../DiagramaDeClasse/avaliacao.png)
 
 **Atributos:**
 - `nota: int`
@@ -139,6 +147,7 @@
 ---
 
 ## ⚙️ Classe `ServicoDeMatchmaking`
+![usuario](../DiagramaDeClasse/svcmatch.png)
 
 **Responsabilidades:**
 - Gerar sugestões de partidas entre jogadores
@@ -153,6 +162,7 @@
 ---
 
 ## 📤 Classe `ServicoDeNotificacao`
+![usuario](../DiagramaDeClasse/svcnotif.png)
 
 **Métodos:**
 - `enviarNotificacao(mensagem: Notificacao): void`
@@ -164,6 +174,7 @@
 ---
 
 ## ⚙️ Classe `ServicoDeUsuario`
+![usuario](../DiagramaDeClasse/svcuser.png)
 
 **Métodos:**
 - `cadastrarUsuario(dados: Map): Usuario`
@@ -176,6 +187,7 @@
 ---
 
 ## 👮‍♀️ Classe `ServicoDeModeracao`
+![usuario](../DiagramaDeClasse/svcmod.png)
 
 **Métodos:**
 - `bloquearJogadorSistema(nick: String, motivo: String, adminResponsavel: Usuario): boolean`
@@ -187,6 +199,7 @@
 ---
 
 ## 🎮 Classe `Jogo`
+![usuario](../DiagramaDeClasse/jogo.png)
 
 **Atributos:**
 - `nome: String`
@@ -201,6 +214,7 @@
 ---
 
 ## 🎮 Classe `EstiloDeJogo`
+![usuario](../DiagramaDeClasse/estjogo.png)
 
 **Atributos:**
 - `tipo: String`
@@ -212,6 +226,7 @@
 ---
 
 ## 🕹️ Classe `Plataforma`
+![usuario](../DiagramaDeClasse/plataforma.png)
 
 **Atributos:**
 - `nome: String`
@@ -225,6 +240,7 @@
 ---
 
 ## 🗂️ Classe `ServicoDeCatalogo`
+![usuario](../DiagramaDeClasse/svccatal.png)
 
 **Métodos:**
 - `cadastrarNovaPlataforma(nome: String): Plataforma`
@@ -239,6 +255,7 @@
 ---
 
 ## 🧠 Classe `Sistema`
+![usuario](../DiagramaDeClasse/sistem.png)
 
 **Atributos:**
 - `servicoUsuario: ServicoDeUsuario`
@@ -254,6 +271,7 @@
 ---
 
 ## ✅ Classe `ServicoDoJogador`
+![usuario](../DiagramaDeClasse/svcjog.png)
 
 **Métodos:**
 - `atualizaPerfilJogador(nick: String, dadosPerfil: Map): Jogador`
