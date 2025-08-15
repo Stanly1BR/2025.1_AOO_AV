@@ -43,14 +43,14 @@
 
 > ### [Detalhamento das Ações](./DiagramaDeAtividade/AtividadesDescricao.md)
 
-| Nome                                                                            | Obs                               |
-| ----------------------------------------------------------------------------    | --------------------------------- |
-| [Buscar Jogadores](./DiagramaDeAtividade/DiagramaDeATVbuscarJogador.png)        | Filtro, Sugestões e Notificações  |
-| [Editar Perfil](./DiagramaDeAtividade/DiagramaDeATVeditarPerfil.png)            | Preferências                      |
-| [Acessar](./DiagramaDeAtividade/DiagramaDeATVloginCadastro.png)                 | Cadastro, Login                   |
-| [Enviar Mensagem](./DiagramaDeAtividade/DiagramaDeATVenviarMensagem.png)        | Chat                              |
-| [Enviar Notificação](./DiagramaDeAtividade/DiagramaDeATVenviarNotificação.png)  | Notificação                       |
-| [Vizualizar Perfil](./DiagramaDeAtividade/DiagramaDeATVvisualizarPerfil.png)    | Vizualização, Bloqueio, Avaliação |
+| Nome                                                                         | Obs                               |
+| ---------------------------------------------------------------------------- | --------------------------------- |
+| [Buscar Jogadores](./DiagramaDeAtividade/buscarjogadores.png)                | Filtro, Sugestões e Notificações  |
+| [Editar Perfil](./DiagramaDeAtividade/editarperfil.png)                      | Preferências                      |
+| [Acessar](./DiagramaDeAtividade/acesso.png)                                  | Cadastro, Login                   |
+| [Enviar Mensagem](./DiagramaDeAtividade/enviarmensagem.png)                  | Chat                              |
+| [Enviar Notificação](./DiagramaDeAtividade/enviarnotificação.png)            | Notificação                       |
+| [Vizualizar Perfil](./DiagramaDeAtividade/DiagramaDeATVvisualizarPerfil.png) | Vizualização, Bloqueio, Avaliação |
 
 <br>
 
