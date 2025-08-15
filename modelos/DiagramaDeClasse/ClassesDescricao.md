@@ -1,6 +1,6 @@
 # 📘 Detalhamento das Classes
 
-## ![DIAGRAMA DE CLASSEs](./DiagramaDeClasse/diagramadeclasses.png)
+## ![DIAGRAMA DE CLASSEs](./DiagramaDeClasse/classes.png)
 
 ---
 
