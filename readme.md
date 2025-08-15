@@ -16,7 +16,7 @@ Principais módulos/funções definidos para o projeto:
 - [Requisitos](/modelos/requisitos.md): Lista de requisitos funcionais e não funcionais.
 - [Modelos](./modelos/readme.md): Diagramas UML utilizados (caso de uso, atividades, classes, estados).
 - [Detalhes](./modelos/DiagramaCasodeUso/CasosUsoDescricao.md): Detalhe dos requisitos dos sistema.
-- [Protótipo](https://www.figma.com/proto/xVWSRcDrZ3ZiE8HrWozRtM/Prot%C3%B3tipo-SyncPlayers?node-id=3-2064&p=f&t=JZQfAdfdpuUK8wUX-0&scaling=scale-down&content-scaling=fixed&page-id=3%3A2062&starting-point-node-id=3%3A2064)
+- [Protótipo](https://www.figma.com/proto/xVWSRcDrZ3ZiE8HrWozRtM/Prot%C3%B3tipo-SyncPlayers?node-id=3-2064&p=f&t=JZQfAdfdpuUK8wUX-0&scaling=scale-down&content-scaling=fixed&page-id=3%3A2062&starting-point-node-id=3%3A2064): Prototipagem funcional via Figma
 - [Autoavaliacao](./descricao/autoavaliacao.md): Reflexão individual ou do grupo sobre o projeto.
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -25,6 +25,7 @@ Principais módulos/funções definidos para o projeto:
 - [StarUML](https://staruml.io/)
 - [PlantUML](https://plantuml.com/)
 - [Pladitor](https://plantumleditor.com)
+- [Figma](https://www.figma.com/)
 
 ## 👥 Integrantes
 - :octocat: [Stanly Almeida do Carmo](https://github.com/Stanly1BR/)
