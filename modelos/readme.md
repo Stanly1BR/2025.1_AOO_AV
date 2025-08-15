@@ -104,6 +104,26 @@
 
 <br>
 
-## 🔹 [DIAGRAMA DE COMPONENTES](./DiagramaDeComponente/componentes.md)
+## 🔹 [DIAGRAMA DE SEQUENCIA](./DiagramaDeSequencia/readme.md)
 
-## ![DIAGRAMA DE COMPONENTES](./DiagramaDeComponente/componentes.jpg)
+### 🔹 [Avaliar Jogador](./DiagramaDeSequencia/avaliarjogador.jpg)
+## ![DIAGRAMA DE SEQUENCIA](./DiagramaDeSequencia/avaliarjogador.jpg)  
+### 🔹 [Bloquear Jogador](./DiagramaDeSequencia/bloquearjogador.jpg)
+## ![DIAGRAMA DE SEQUENCIA](./DiagramaDeSequencia/bloquearjogador.jpg)  
+### 🔹 [Buscar Jogadores](./DiagramaDeSequencia/buscarjogadores.jpg)
+## ![DIAGRAMA DE SEQUENCIA](./DiagramaDeSequencia/buscarjogadores.jpg)  
+### 🔹 [Cadastrar Horários](./DiagramaDeSequencia/cadastrohorarios.jpg)
+## ![DIAGRAMA DE SEQUENCIA](./DiagramaDeSequencia/cadastrohorarios.jpg)  
+
+<br>
+
+## 🔹 [DIAGRAMA DE COMPONENTES](./DiagramaDeComponente/readme.md)
+
+## ![DIAGRAMA DE COMPONENTES](./DiagramaDeComponente/componentes.jpg)  
+
+| Componentes            | Drescrição                   |
+| ---------------------- | ---------------------------- |
+| FrontEnd               | Interface Usuário Aplicação  |
+| BackEnd                | Máquina Lógica               |
+| Serviço Externo        | Consumo de APIs              |
+| Banco de Dados         | Armazenamento                |
