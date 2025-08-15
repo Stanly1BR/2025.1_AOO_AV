@@ -103,3 +103,7 @@
 | [Vizualizar Perfil](./DiagramaDeEstados/Visualizar%20Perfil.png)    | Vizualização, Funções                                |
 
 <br>
+
+## 🔹 [DIAGRAMA DE COMPONENTES](./DiagramaDeClasse/ClassesDescricao.md)
+
+## ![DIAGRAMA DE COMPONENTES](./DiagramaDeClasse/componentes.jpg)
