@@ -106,13 +106,13 @@
 
 ## 🔹 [DIAGRAMA DE SEQUENCIA](./DiagramaDeSequencia/readme.md)
 
-### 🔹 [Avaliar Jogador](./DiagramaDeSequencia/avaliarjogador.jpg)
+### • [Avaliar Jogador](./DiagramaDeSequencia/avaliarjogador.jpg)
 ## ![DIAGRAMA DE SEQUENCIA](./DiagramaDeSequencia/avaliarjogador.jpg)  
-### 🔹 [Bloquear Jogador](./DiagramaDeSequencia/bloquearjogador.jpg)
+### • [Bloquear Jogador](./DiagramaDeSequencia/bloquearjogador.jpg)
 ## ![DIAGRAMA DE SEQUENCIA](./DiagramaDeSequencia/bloquearjogador.jpg)  
-### 🔹 [Buscar Jogadores](./DiagramaDeSequencia/buscarjogadores.jpg)
+### • [Buscar Jogadores](./DiagramaDeSequencia/buscarjogadores.jpg)
 ## ![DIAGRAMA DE SEQUENCIA](./DiagramaDeSequencia/buscarjogadores.jpg)  
-### 🔹 [Cadastrar Horários](./DiagramaDeSequencia/cadastrohorarios.jpg)
+### • [Cadastrar Horários](./DiagramaDeSequencia/cadastrohorarios.jpg)
 ## ![DIAGRAMA DE SEQUENCIA](./DiagramaDeSequencia/cadastrohorarios.jpg)  
 
 <br>
