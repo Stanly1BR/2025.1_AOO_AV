@@ -1,8 +1,8 @@
 ## 🔹 [Descrição dos Diagramas de Atividade](./DiagramaDeAtividade)
 
 
-## [DA01 – Acesso ao Sistema](../DiagramaDeAtividade/DiagramaDeATVloginCadastro.png)
-## ![A01 – Acesso ao Sistema](../DiagramaDeAtividade/DiagramaDeATVloginCadastro.png)
+## [DA01 – Acesso ao Sistema](../DiagramaDeAtividade/acesso.png)
+## ![A01 – Acesso ao Sistema](../DiagramaDeAtividade/acesso.png)
 
 Este diagrama detalha os processos de **autenticação** e **cadastro** de um novo jogador no sistema.
 
@@ -29,8 +29,8 @@ Permitir que um usuário acesse sua conta ou crie um novo perfil de jogador.
 
 ---
 
-## [DA02 – Editar Perfil](../DiagramaDeAtividade/DiagramaDeATVeditarPerfil.png)
-## ![DA02 – Editar Perfil](../DiagramaDeAtividade/DiagramaDeATVeditarPerfil.png)
+## [DA02 – Editar Perfil](../DiagramaDeAtividade/editarperfil.png)
+## ![DA02 – Editar Perfil](../DiagramaDeAtividade/editarperfil.png)
 
 Este diagrama representa as ações que um jogador pode realizar para customizar e atualizar as informações de seu perfil.
 
@@ -57,8 +57,8 @@ Permitir que o jogador cadastre e modifique suas informações de jogos, platafo
 
 ---
 
-## [DA03 – Buscar Jogadores](../DiagramaDeAtividade/DiagramaDeATVbuscarJogador.png)
-## ![DA03 – Buscar Jogadores](../DiagramaDeAtividade/DiagramaDeATVbuscarJogador.png)
+## [DA03 – Buscar Jogadores](../DiagramaDeAtividade/buscarjogadores.png)
+## ![DA03 – Buscar Jogadores](../DiagramaDeAtividade/buscarjogadores.png)
 
 Este diagrama ilustra o processo de busca e sugestão de jogadores compatíveis.
 
@@ -117,8 +117,8 @@ Oferecer ações contextuais como enviar convite, avaliar ou bloquear um jogador
 
 ---
 
-## [DA05 – Enviar Mensagem](../DiagramaDeAtividade/DiagramaDeATVenviarMensagem.png)
-## ![DA05 – Enviar Mensagem](../DiagramaDeAtividade/DiagramaDeATVenviarMensagem.png)
+## [DA05 – Enviar Mensagem](../DiagramaDeAtividade/enviarmensagem.png)
+## ![DA05 – Enviar Mensagem](../DiagramaDeAtividade/enviarmensagem.png)
 
 Este diagrama detalha o funcionamento do sistema de chat.
 
@@ -139,8 +139,8 @@ Permitir a comunicação textual entre jogadores, seja em um chat privado ou em 
 
 ---
 
-## [DA06 – Gerenciar Notificação](../DiagramaDeAtividade/DiagramaDeATVenviarNotificação.png)
-## ![DA06 – Gerenciar Notificação](../DiagramaDeAtividade/DiagramaDeATVenviarNotificação.png)
+## [DA06 – Gerenciar Notificação](../DiagramaDeAtividade/enviarnotificacao.png)
+## ![DA06 – Gerenciar Notificação](../DiagramaDeAtividade/enviarnotificacao.png)
 
 Este diagrama mostra como um usuário interage com as notificações recebidas no sistema.
 
