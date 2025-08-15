@@ -104,6 +104,6 @@
 
 <br>
 
-## 🔹 [DIAGRAMA DE COMPONENTES](./DiagramaDeClasse/ClassesDescricao.md)
+## 🔹 [DIAGRAMA DE COMPONENTES](./DiagramaDeComponente/componentes.md)
 
-## ![DIAGRAMA DE COMPONENTES](./DiagramaDeClasse/componentes.jpg)
+## ![DIAGRAMA DE COMPONENTES](./DiagramaDeComponente/componentes.jpg)
