@@ -1,4 +1,4 @@
-# [📊 Diagramas UML do Sistema](modelos)
+# [📊 Diagramas UML do Sistema](.)
 
 > Visão Geral
 
