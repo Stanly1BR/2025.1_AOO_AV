@@ -127,3 +127,7 @@
 | BackEnd                | Máquina Lógica               |
 | Serviço Externo        | Consumo de APIs              |
 | Banco de Dados         | Armazenamento                |
+
+## 🔹 [DIAGRAMA DE ARQUITETURA](./DiagramaDeArquitetura/readme.md)
+
+## ![DIAGRAMA DE ARQUITETURA](./DiagramaDeArquitetura/arquitetura.png)  
