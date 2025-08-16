@@ -21,7 +21,7 @@ _Sim. Organizamos as atividades dividindo o trabalho em partes específicas, de 
   
 - Jadson: Fiquei encarregado nesse bimestre do diagrama de componentes, assim como parte da estrutura e organização no github, participando tambem ativamente das reuniôes.
   
-- Nome 4: 
+- Luiz Gustavo: Nessa segunda etapa do projeto ajudei na correção e melhora dos novos diagramas
 
 - Nome 5:
   
@@ -77,3 +77,5 @@ Sugestão Rafael: Sugerir um material de apoio que facilite a realização das a
 Sugestão Jadson: Para essa segunda etapa, apenas manter as sugestões anteriores. Foi muito mais tranquilo depois da expêriencia passada e correções indicadas.
 
 Sugestão stanly; Nesse segundo bimestre foi otimo, já que tivemos tempo para fazer os diagramas.
+
+Sugestão Luiz: Construir os diagramas passo a passo em aula
