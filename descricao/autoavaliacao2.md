@@ -23,7 +23,7 @@ _Sim. Organizamos as atividades dividindo o trabalho em partes específicas, de 
   
 - Luiz Gustavo: Nessa segunda etapa do projeto ajudei na correção e melhora dos novos diagramas
 
-- Nome 5:
+- Rafael Chaves: Ajudei um pouco quando houve a explicação do diagrama de sequência. Tentei transmitir o que havia entendido inicialmente. Por fim, acabei, todavia, encarregado do diagrama de classe que já havia feito.
   
 ---
 
