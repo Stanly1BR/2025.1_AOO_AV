@@ -17,7 +17,7 @@ _O grupo se reuniu inicialmente para definir em conjunto a proposta da aplicaç�
 
 - Nome 1: José Anderson de Almeida Silva, A minha principal contribuição foi a elaboração do diagrama de caso de uso inicial do sistema, com base nos requisitos funcionais, não funcionais e regras de negócio, previamente definidos pelo grupo em conjunto. Esse diagrama foi essencial para representar visualmente as funcionalidades do sistema e a interação dos usuários com ele, servindo como guia para as próximas etapas do desenvolvimento.
   
-- Nome 2: Stanly almeida do carmo, Minha maior contribuição foi em relação ao diagrama de atividade o qual fiquei responsavel, feito por meio do diagrama de caso de uso e os requisitos, Além disso, desenvolvi um modelo preliminar de caso de uso que serviu como base para a versão final validada pelo grupo e acompanhamento no desenvolvimento dos diagramas de classe e estado.
+- Nome 2: Stanly almeida do carmo, fiz o diagrama de arquitetura e definir o tipo dele como microsserviços.
   
 - Nome 3: Jadson Alves do Nascimento, minha principal contribuição foi auxiliar todos os componentes do grupo em suas tarefas, participei mais ativamente na criação do projeto, na elaboração das regras de negócio e requisitos, dos diagramas de casos de uso, diagramas de Atividade e ajustes e adequações realizadas no GitHub. Mesmo com a definição de tarefas a integrantes específicos, todos os membros estavam constantemente em contato para tomar as decisões no projeto, sendo que sempre estivemos presentes nas reuniôes.
   
@@ -50,7 +50,7 @@ Rafael Chaves: A funcionalidade de cada diagrama de modelagem de sistema, partic
 
 Luiz Gustavo: O principal é o quão importante esse trabalho de elaborar os diagramas pode ser para facilitar e tornar eficiente o processo de desenvolvimento, principalmente quando feito em grandes equipes.
 
-Stanly: Durante este trabalho, meu principal aprendizado técnico foi entender, na prática, como os diagramas (de casos de uso, classes e atividades) não são apenas exigências teóricas, mas ferramentas fundamentais para planejar e comunicar a estrutura de um sistema de forma clara. Também aprendi a utilizar melhor ferramentas como o StarUML.
+Stanly: Durante este trabalho, meu principal aprendizado técnico foi entender, na prática, como os diagramas (de casos de uso, classes arquitetura  e atividades) não são apenas exigências teóricas, mas ferramentas fundamentais para planejar e comunicar a estrutura de um sistema de forma clara. Também aprendi a utilizar melhor ferramentas.
 
 **5. E pessoal (relacionado a trabalho em grupo, organização, etc)?**  
 José Anderson: No aspecto pessoal, o trabalho em grupo reforçou a importância da comunicação clara e constante entre os membros, Esse processo também melhorou minha habilidade de trabalhar em equipe, ouvir diferentes opiniões e gerir o tempo.
@@ -84,4 +84,4 @@ Sugestão Rafael: Sugerir um material de apoio que facilite a realização das a
 
 Sugestão Jadson: Como sugestão, implementar desde o início da disciplina as ideias a respeito do projeto, principalmente com a ambientação do GitHub, para que o projeto já comece seu desenvolvimento nos moldes da atividade, assim como uma aula básica (slides) dessa ferramenta. Mesmo fora da ementa seria de grande valia para nossa formação como profissionais.
 
-Sugestão stanly; Seria interessante que a atividade fosse dividida em entregas parciais ao longo das aulas, com pequenos feedbacks em cada etapa. Isso ajudaria não só na organização do grupo, mas também permitiria corrigir eventuais erros antes da entrega final.
+Sugestão stanly; Desta vez foi bem melhor pq foi menos diagramas.
