@@ -15,11 +15,11 @@ _Sim. Organizamos as atividades dividindo o trabalho em partes específicas, de 
 **2. O que você considera que mais contribuiu no projeto?**
 > Aqui cada usuário deverá realizar sua descrição e realizar o envio com o seu nome para ficar registrado no github
 
-- Nome 1: A minha principal contribuição nesse segundo split do projeto foi a elaboração do diagrama de sequência, descrevendo de forma detalhada o fluxo de mensagens e interações entre os componentes do sistema para os principais casos de uso. Essa atividade ajudou a alinhar a equipe quanto à lógica de execução dos processos, facilitou a identificação de possíveis melhorias no fluxo.
+- José Anderson: A minha principal contribuição nesse segundo split do projeto foi a elaboração do diagrama de sequência, descrevendo de forma detalhada o fluxo de mensagens e interações entre os componentes do sistema para os principais casos de uso. Essa atividade ajudou a alinhar a equipe quanto à lógica de execução dos processos, facilitou a identificação de possíveis melhorias no fluxo.
   
 - Stanly: minha contribuição foi na elaboração do diagrama de arquitetura nesse segundo bimestre e nos outros particicpei em todos os processos menos nos diagramas de estados
   
-- Nome 3: 
+- Jadson: Fiquei encarregado nesse bimestre do diagrama de componentes, assim como parte da estrutura e organização no github, participando tambem ativamente das reuniôes.
   
 - Nome 4: 
 
@@ -47,7 +47,7 @@ José Anderson: O principal aprendizado técnico que obtive com este trabalho fo
 **5. E pessoal (relacionado a trabalho em grupo, organização, etc)?**  
 José Anderson: No aspecto pessoal, o trabalho em grupo reforçou a importância da comunicação clara e constante entre os membros, Esse processo também melhorou minha habilidade de trabalhar em equipe, ouvir diferentes opiniões e gerir o tempo.
 
-Jadson: Foi uma experiência muito enriquecedora, pois mesmo de maneira acadêmica, pudemos simular o ambiente de produção e nos relacionarmos como colegas de trabalho e não de classe, vendo na prática a importância do trabalho em grupo e da disciplina necessária para conquista dos prazos estipulados.
+Jadson: Essa segunda etapa surgiu como uma confirmação e validação do conhecimento previamente adquirido, já que pudemos realizar ajustes no planejamento do projeto para adequar as sugestôes/correções indicadas pelos colegas de turma e professor, agregando um conhecimento mais amplo a respeito e na necessidade de uma documentação construida com mais detalhes e esmero.
 
 Luiz Gustavo: Tranquilo, seguimos o planejamento das aulas e conseguimos organizar as funções para cada participante durante as semanas.
 
@@ -74,6 +74,6 @@ Sugestão José Anderson: Dividir a entrega em etapas menores e avaliativas ajud
 
 Sugestão Rafael: Sugerir um material de apoio que facilite a realização das atividades propostas.
 
-Sugestão Jadson: Como sugestão, implementar desde o início da disciplina as ideias a respeito do projeto, principalmente com a ambientação do GitHub, para que o projeto já comece seu desenvolvimento nos moldes da atividade, assim como uma aula básica (slides) dessa ferramenta. Mesmo fora da ementa seria de grande valia para nossa formação como profissionais.
+Sugestão Jadson: Para essa segunda etapa, apenas manter as sugestões anteriores. Foi muito mais tranquilo depois da expêriencia passada e correções indicadas.
 
 Sugestão stanly; Nesse segundo bimestre foi otimo, já que tivemos tempo para fazer os diagramas.
