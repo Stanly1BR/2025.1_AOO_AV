@@ -17,7 +17,7 @@ _Sim. Organizamos as atividades dividindo o trabalho em partes específicas, de 
 
 - Nome 1: A minha principal contribuição nesse segundo split do projeto foi a elaboração do diagrama de sequência, descrevendo de forma detalhada o fluxo de mensagens e interações entre os componentes do sistema para os principais casos de uso. Essa atividade ajudou a alinhar a equipe quanto à lógica de execução dos processos, facilitou a identificação de possíveis melhorias no fluxo.
   
-- Nome 2:
+- Stanly: minha contribuição foi na elaboração do diagrama de arquitetura nesse segundo bimestre e nos outros particicpei em todos os processos menos nos diagramas de estados
   
 - Nome 3: 
   
@@ -76,4 +76,4 @@ Sugestão Rafael: Sugerir um material de apoio que facilite a realização das a
 
 Sugestão Jadson: Como sugestão, implementar desde o início da disciplina as ideias a respeito do projeto, principalmente com a ambientação do GitHub, para que o projeto já comece seu desenvolvimento nos moldes da atividade, assim como uma aula básica (slides) dessa ferramenta. Mesmo fora da ementa seria de grande valia para nossa formação como profissionais.
 
-Sugestão stanly; Seria interessante que a atividade fosse dividida em entregas parciais ao longo das aulas, com pequenos feedbacks em cada etapa. Isso ajudaria não só na organização do grupo, mas também permitiria corrigir eventuais erros antes da entrega final.
+Sugestão stanly; Nesse segundo bimestre foi otimo, já que tivemos tempo para fazer os diagramas.
